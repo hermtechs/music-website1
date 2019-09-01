@@ -1,6 +1,8 @@
 body{
     background-image:url("images/ellen.jpg");
     font-family: 'Handlee' , cursive;
+    marigin-top:0;
+    padding-top:0;
 }
 #headlines{
     margin-left: 10px;
